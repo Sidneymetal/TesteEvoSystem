@@ -1,0 +1,107 @@
+<div class="container-fluid">
+  <table class="table table-hover">
+    <thead class="table-dark">
+      <tr>
+        <th scope="col">ID</th>
+        <th scope="col">Funcionario</th>
+        <th scope="col">Foto</th>
+        <th scope="col">Rg</th>
+        <th scope="col">Acao</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>#</th>
+        <td>
+          <input
+            type="text"
+            class="form-control form-control-sm"
+            [(ngModel)]="novoFuncionario.nome"
+          />
+        </td>
+        <td>
+          <input
+            type="text"
+            class="form-control form-control-sm"
+            [(ngModel)]="novoFuncionario.foto"
+          />
+        </td>
+        <td>
+          <input
+            type="text"
+            class="form-control form-control-sm"
+            [(ngModel)]="novoFuncionario.rg"
+          />
+        </td>
+        <td>
+          <button
+            class="btn btn-sm btn-primary cadastrar"
+            (click)="cadastrarNovoFuncionario()"
+          >
+            Cadastrar
+          </button>
+        </td>
+      </tr>
+      <tr *ngFor="let funcionario of funcionarios; let i = index">
+        <th>{{ funcionario.id }}</th>
+        <td *ngIf="!funcionario.editing">{{ funcionario.nome }}</td>
+        <td *ngIf="funcionario.editing">
+          <input
+            type="text"
+            class="form-control form-control-sm"
+            [(ngModel)]="funcionario.nome"
+          />
+        </td>
+        <td *ngIf="!funcionario.editing">{{ funcionario.foto }}</td>
+        <td *ngIf="funcionario.editing">
+          <input
+            type="text"
+            class="form-control form-control-sm"
+            [(ngModel)]="funcionario.foto"
+          />
+        </td>
+        <td *ngIf="!funcionario.editing">{{ funcionario.rg }}</td>
+        <td *ngIf="funcionario.editing">
+          <input
+            type="text"
+            class="form-control form-control-sm"
+            [(ngModel)]="funcionario.rg"
+          />
+        </td>
+        <td>
+          <button
+            *ngIf="!funcionario.editing"
+            class="btn btn-sm btn-outline-success"
+            (click)="editarFuncionario(i)"
+          >
+            Editar
+          </button>
+          <button
+            *ngIf="funcionario.editing"
+            class="btn btn-sm btn-success"
+            (click)="salvarFuncionario(i)"
+          >
+            Salvar
+          </button>
+          <button
+            *ngIf="!funcionario.confirmarExclusao"
+            class="btn btn-sm btn-outline-danger"
+            (click)="confirmarExclusao(i)"
+          >
+            Excluir
+          </button>
+          <button
+            *ngIf="funcionario.confirmarExclusao"
+            class="btn btn-sm btn-danger"
+            (click)="excluirFuncionario(i)"
+          >
+            Certeza?
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <button class="btn btn-primary mt-3" (click)="voltarParaDepartamentos()">
+    Voltar para Departamentos
+  </button>
+</div>

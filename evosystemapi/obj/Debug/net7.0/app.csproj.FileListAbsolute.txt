@@ -1,0 +1,380 @@
+/app/bin/Debug/net7.0/appsettings.Development.json
+/app/bin/Debug/net7.0/appsettings.json
+/app/bin/Debug/net7.0/app
+/app/bin/Debug/net7.0/app.deps.json
+/app/bin/Debug/net7.0/app.runtimeconfig.json
+/app/bin/Debug/net7.0/app.dll
+/app/bin/Debug/net7.0/app.pdb
+/app/bin/Debug/net7.0/Azure.Core.dll
+/app/bin/Debug/net7.0/Azure.Identity.dll
+/app/bin/Debug/net7.0/Humanizer.dll
+/app/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/app/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/app/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/app/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/app/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/app/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/app/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/app/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/app/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/app/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/app/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/app/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/app/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/app/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/app/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/app/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/app/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/app/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/app/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/app/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/app/bin/Debug/net7.0/Mono.TextTemplating.dll
+/app/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/app/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/app/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/app/bin/Debug/net7.0/System.CodeDom.dll
+/app/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/app/bin/Debug/net7.0/System.Drawing.Common.dll
+/app/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/app/bin/Debug/net7.0/System.Memory.Data.dll
+/app/bin/Debug/net7.0/System.Runtime.Caching.dll
+/app/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/app/bin/Debug/net7.0/System.Security.Permissions.dll
+/app/bin/Debug/net7.0/System.Windows.Extensions.dll
+/app/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/app/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/app/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/app/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/app/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/app/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/app/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/app/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/app/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/app/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/app/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/app/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/app/obj/Debug/net7.0/app.csproj.AssemblyReference.cache
+/app/obj/Debug/net7.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/app/obj/Debug/net7.0/app.AssemblyInfoInputs.cache
+/app/obj/Debug/net7.0/app.AssemblyInfo.cs
+/app/obj/Debug/net7.0/app.csproj.CoreCompileInputs.cache
+/app/obj/Debug/net7.0/app.MvcApplicationPartsAssemblyInfo.cs
+/app/obj/Debug/net7.0/app.MvcApplicationPartsAssemblyInfo.cache
+/app/obj/Debug/net7.0/staticwebassets/msbuild.app.Microsoft.AspNetCore.StaticWebAssets.props
+/app/obj/Debug/net7.0/staticwebassets/msbuild.build.app.props
+/app/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.app.props
+/app/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.app.props
+/app/obj/Debug/net7.0/staticwebassets.pack.json
+/app/obj/Debug/net7.0/staticwebassets.build.json
+/app/obj/Debug/net7.0/staticwebassets.development.json
+/app/obj/Debug/net7.0/scopedcss/bundle/app.styles.css
+/app/obj/Debug/net7.0/app.csproj.CopyComplete
+/app/obj/Debug/net7.0/app.dll
+/app/obj/Debug/net7.0/refint/app.dll
+/app/obj/Debug/net7.0/app.pdb
+/app/obj/Debug/net7.0/app.genruntimeconfig.cache
+/app/obj/Debug/net7.0/ref/app.dll
+/app/evosystemapi/bin/Debug/net7.0/appsettings.Development.json
+/app/evosystemapi/bin/Debug/net7.0/appsettings.json
+/app/evosystemapi/bin/Debug/net7.0/app
+/app/evosystemapi/bin/Debug/net7.0/app.deps.json
+/app/evosystemapi/bin/Debug/net7.0/app.runtimeconfig.json
+/app/evosystemapi/bin/Debug/net7.0/app.dll
+/app/evosystemapi/bin/Debug/net7.0/app.pdb
+/app/evosystemapi/bin/Debug/net7.0/Azure.Core.dll
+/app/evosystemapi/bin/Debug/net7.0/Azure.Identity.dll
+/app/evosystemapi/bin/Debug/net7.0/Humanizer.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/app/evosystemapi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/app/evosystemapi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/app/evosystemapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/app/evosystemapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/app/evosystemapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/app/evosystemapi/bin/Debug/net7.0/System.CodeDom.dll
+/app/evosystemapi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/app/evosystemapi/bin/Debug/net7.0/System.Drawing.Common.dll
+/app/evosystemapi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/app/evosystemapi/bin/Debug/net7.0/System.Memory.Data.dll
+/app/evosystemapi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/app/evosystemapi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/app/evosystemapi/bin/Debug/net7.0/System.Security.Permissions.dll
+/app/evosystemapi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/app/evosystemapi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/app/evosystemapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/app/evosystemapi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/app/evosystemapi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/app/evosystemapi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/app/evosystemapi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/app/evosystemapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/app/evosystemapi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/app/evosystemapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/app/evosystemapi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/app/evosystemapi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/app/evosystemapi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/app/evosystemapi/obj/Debug/net7.0/app.csproj.AssemblyReference.cache
+/app/evosystemapi/obj/Debug/net7.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/app/evosystemapi/obj/Debug/net7.0/app.AssemblyInfoInputs.cache
+/app/evosystemapi/obj/Debug/net7.0/app.AssemblyInfo.cs
+/app/evosystemapi/obj/Debug/net7.0/app.csproj.CoreCompileInputs.cache
+/app/evosystemapi/obj/Debug/net7.0/app.MvcApplicationPartsAssemblyInfo.cs
+/app/evosystemapi/obj/Debug/net7.0/app.MvcApplicationPartsAssemblyInfo.cache
+/app/evosystemapi/obj/Debug/net7.0/staticwebassets/msbuild.app.Microsoft.AspNetCore.StaticWebAssets.props
+/app/evosystemapi/obj/Debug/net7.0/staticwebassets/msbuild.build.app.props
+/app/evosystemapi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.app.props
+/app/evosystemapi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.app.props
+/app/evosystemapi/obj/Debug/net7.0/staticwebassets.pack.json
+/app/evosystemapi/obj/Debug/net7.0/staticwebassets.build.json
+/app/evosystemapi/obj/Debug/net7.0/staticwebassets.development.json
+/app/evosystemapi/obj/Debug/net7.0/scopedcss/bundle/app.styles.css
+/app/evosystemapi/obj/Debug/net7.0/app.csproj.CopyComplete
+/app/evosystemapi/obj/Debug/net7.0/app.dll
+/app/evosystemapi/obj/Debug/net7.0/refint/app.dll
+/app/evosystemapi/obj/Debug/net7.0/app.pdb
+/app/evosystemapi/obj/Debug/net7.0/app.genruntimeconfig.cache
+/app/evosystemapi/obj/Debug/net7.0/ref/app.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\appsettings.json
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\app.exe
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\app.deps.json
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\app.runtimeconfig.json
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\app.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\app.pdb
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\app.AssemblyInfo.cs
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\staticwebassets\msbuild.app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\staticwebassets\msbuild.build.app.props
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.app.props
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.app.props
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\scopedcss\bundle\app.styles.css
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\app.csproj.CopyComplete
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\app.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\refint\app.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\app.pdb
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\app.genruntimeconfig.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\obj\Debug\net7.0\ref\app.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\appsettings.json
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\app.exe
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\app.deps.json
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\app.runtimeconfig.json
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\app.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\app.pdb
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\app.AssemblyInfo.cs
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\staticwebassets\msbuild.app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\staticwebassets\msbuild.build.app.props
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.app.props
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.app.props
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\scopedcss\bundle\app.styles.css
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\app.csproj.CopyComplete
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\app.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\refint\app.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\app.pdb
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\app.genruntimeconfig.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\HAHAHAH\app\app\evosystemapi\obj\Debug\net7.0\ref\app.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\appsettings.json
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\app.exe
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\app.deps.json
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\app.runtimeconfig.json
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\app.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\app.pdb
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\app.AssemblyInfo.cs
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\staticwebassets\msbuild.app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\staticwebassets\msbuild.build.app.props
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.app.props
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.app.props
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\scopedcss\bundle\app.styles.css
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\app.csproj.CopyComplete
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\app.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\refint\app.dll
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\app.pdb
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\app.genruntimeconfig.cache
+C:\Users\sidne\OneDrive\Área de Trabalho\EvoTeste\evosystemapi\obj\Debug\net7.0\ref\app.dll
